@@ -2,6 +2,9 @@
 
   ![Descripción del GIF](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
 
+  [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=daniel2710)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Sobre mí
 
 Soy un apasionado desarrollador frontend con experiencia en la creación de interfaces de usuario agradables y funcionales. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías para mejorar constantemente mis habilidades. Además, disfruto colaborar en equipos multidisciplinarios y compartir conocimientos con otros desarrolladores.
