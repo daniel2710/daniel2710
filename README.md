@@ -1,7 +1,7 @@
 # ¡Hola, soy Daniel De Avila! 👋
 
 <p align="center">
-  <img src="https://your-image-url" alt="Tu nombre" width="200" height="200">
+  <img src="https://giphy.com/embed/BaDsH4FpMBnqdK8J0g" alt="Tu nombre" width="200" height="200">
 </p>
 
 ## Sobre mí
