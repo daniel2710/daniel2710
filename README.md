@@ -27,12 +27,12 @@ Soy un apasionado desarrollador frontend con experiencia en la creación de inte
 
 Si estás interesado en colaborar en un proyecto o simplemente quieres decir hola, no dudes en contactarme.
 
-- Email: [tu-email@example.com](mailto:tu-email@example.com)
-- Sitio web: [tu-sitio-web.com](https://tu-sitio-web.com)
-- LinkedIn: [Tu nombre en LinkedIn](https://www.linkedin.com/in/tu-nombre)
+- Email: [daniel2710es@gmail.com](mailto:daniel2710es@gmail.com)
+- Sitio web: [tu-si](https://portfolio-74dtqdwvi-daniel2710.vercel.app/)
+- LinkedIn: [Tu nombre en LinkedIn](https://www.linkedin.com/in/daniel-de-avila)
 
 <p align="center">
-  <img src="https://your-animated-gif-url" alt="Animación" width="500" height="auto">
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/BaDsH4FpMBnqdK8J0g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/seal-sappy-seals-BaDsH4FpMBnqdK8J0g">via GIPHY</a></p>
 </p>
 
 <div align="center">
