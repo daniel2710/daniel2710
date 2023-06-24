@@ -1,7 +1,7 @@
 # ¡Hola, soy Daniel De Avila! 👋
 
 <p align="center">
-  <img src="https://your-image-url" alt="Tu nombre" width="200" height="200">
+  <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" alt="Tu nombre" width="200" height="200">
 </p>
 
 ## Sobre mí
