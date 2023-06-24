@@ -38,9 +38,8 @@ Si estás interesado en colaborar en un proyecto o simplemente quieres decir hol
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tu-nombre.tu-nombre)
-[![GitHub](https://img.shields.io/github/followers/tu-nombre?label=Follow&style=social)](https://github.com/tu-nombre)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tu-nombre)
-[![Twitter](https://img.shields.io/twitter/follow/tu-nombre?style=social)](https://twitter.com/tu-nombre)
+[![GitHub](https://img.shields.io/github/followers/daniel2710?label=Follow&style=social)](https://github.com/daniel2710)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/daniel-de-avila)
+[![Twitter](https://img.shields.io/twitter/follow/deavilafront?style=social)](https://twitter.com/deavilafront)
 
 </div>
