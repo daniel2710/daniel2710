@@ -1,7 +1,7 @@
 # ¡Hola, soy Daniel De Avila! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" alt="Tu nombre" width="200" height="200">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackwise.mx%2F15-poderosos-dispositivos-de-hardware-que-todo-hacker-etico-debe-tener%2F&psig=AOvVaw18biDezenZXxlSatFvZSa_&ust=1687726891559000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDw2ODm3P8CFQAAAAAdAAAAABAE" alt="Tu nombre" width="200" height="200">
 </p>
 
 ## Sobre mí
