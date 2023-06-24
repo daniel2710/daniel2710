@@ -1,7 +1,7 @@
 # ¡Hola, soy Daniel De Avila! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Tu nombre" width="200" height="200">
+  (https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
 </p>
 
 ## Sobre mí
@@ -16,12 +16,6 @@ Soy un apasionado desarrollador frontend con experiencia en la creación de inte
 - Git | Github
 - Responsive design
 - Scrum
-
-## Proyectos destacados
-
-- [Proyecto 1](link al repositorio): Breve descripción del proyecto y tecnologías utilizadas.
-- [Proyecto 2](link al repositorio): Breve descripción del proyecto y tecnologías utilizadas.
-- [Proyecto 3](link al repositorio): Breve descripción del proyecto y tecnologías utilizadas.
 
 ## Contacto
 
