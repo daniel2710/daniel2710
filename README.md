@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu nombre]! 👋
+# ¡Hola, soy Daniel De Avila! 👋
 
 <p align="center">
   <img src="https://your-image-url" alt="Tu nombre" width="200" height="200">
