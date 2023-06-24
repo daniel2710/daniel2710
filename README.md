@@ -1,6 +1,6 @@
 # ¡Hola, soy Daniel De Avila! 👋
 
-  ![Descripción del GIF](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
+  ![Descripción del GIF](https://i.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.webp)
 
   [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=daniel2710)](https://github.com/anuraghazra/github-readme-stats)
 
