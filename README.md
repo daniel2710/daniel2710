@@ -1,7 +1,7 @@
 # ¡Hola, soy Daniel De Avila! 👋
 
 <p align="center">
-  <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" alt="Tu nombre" width="200" height="200">
+  <img src="https://your-image-url" alt="Tu nombre" width="200" height="200">
 </p>
 
 ## Sobre mí
@@ -30,3 +30,16 @@ Si estás interesado en colaborar en un proyecto o simplemente quieres decir hol
 - Email: [tu-email@example.com](mailto:tu-email@example.com)
 - Sitio web: [tu-sitio-web.com](https://tu-sitio-web.com)
 - LinkedIn: [Tu nombre en LinkedIn](https://www.linkedin.com/in/tu-nombre)
+
+<p align="center">
+  <img src="https://your-animated-gif-url" alt="Animación" width="500" height="auto">
+</p>
+
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tu-nombre.tu-nombre)
+[![GitHub](https://img.shields.io/github/followers/tu-nombre?label=Follow&style=social)](https://github.com/tu-nombre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tu-nombre)
+[![Twitter](https://img.shields.io/twitter/follow/tu-nombre?style=social)](https://twitter.com/tu-nombre)
+
+</div>
