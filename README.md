@@ -1,8 +1,6 @@
 # ¡Hola, soy Daniel De Avila! 👋
 
-<p align="center">
   ![Descripción del GIF](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
-</p>
 
 ## Sobre mí
 
