@@ -33,7 +33,7 @@ Si estás interesado en colaborar en un proyecto o simplemente quieres decir hol
 
 
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-    <iframe src="https://giphy.com/embed/BaDsH4FpMBnqdK8J0g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed"           allowFullScreen></iframe>
+    <img src="https://giphy.com/embed/BaDsH4FpMBnqdK8J0g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed"           allowFullScreen></img>
   </div>
 
 <div align="center">
