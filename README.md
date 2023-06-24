@@ -1,21 +1,21 @@
 # ¡Hola, soy Daniel De Avila! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjHCWIO5rCfjhfqI/giphy.gif" alt="Tu nombre" width="200" height="200">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Tu nombre" width="200" height="200">
 </p>
 
 ## Sobre mí
 
-Soy un apasionado desarrollador frontend con experiencia en la creación de interfaces de usuario hermosas y funcionales. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías para mejorar constantemente mis habilidades. Además, disfruto colaborar en equipos multidisciplinarios y compartir conocimientos con otros desarrolladores.
+Soy un apasionado desarrollador frontend con experiencia en la creación de interfaces de usuario agradables y funcionales. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías para mejorar constantemente mis habilidades. Además, disfruto colaborar en equipos multidisciplinarios y compartir conocimientos con otros desarrolladores.
 
-## Habilidades
+## Habilidades tecnicas
 
-- HTML5, CSS3 y JavaScript
-- Frameworks y bibliotecas populares, como React y Angular
-- Preprocesadores CSS, como Sass y Less
-- Control de versiones con Git
-- Pruebas unitarias y pruebas de integración
-- Diseño responsivo y optimización de rendimiento web
+- React.js | Next.js | React query | Axios
+- Javascript | Typescript
+- Css | Tailwindcss | Bootstrap
+- Git | Github
+- Responsive design
+- Scrum
 
 ## Proyectos destacados
 
@@ -30,11 +30,11 @@ Si estás interesado en colaborar en un proyecto o simplemente quieres decir hol
 - Email: [daniel2710es@gmail.com](mailto:daniel2710es@gmail.com)
 - Sitio web: [tu-si](https://portfolio-74dtqdwvi-daniel2710.vercel.app/)
 - LinkedIn: [Tu nombre en LinkedIn](https://www.linkedin.com/in/daniel-de-avila)
+- Whatsapp: +573244933254
 
-
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-    <img src="https://giphy.com/embed/BaDsH4FpMBnqdK8J0g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed"           allowFullScreen></img>
-  </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" alt="Tu nombre" width="200" height="200">
+</p>
 
 <div align="center">
 
