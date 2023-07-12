@@ -8,10 +8,10 @@ Soy un apasionado desarrollador frontend con experiencia en la creación de inte
 
 ## Habilidades tecnicas
 
-- React.js | Next.js | React query | Axios
 - Javascript | Typescript
+- React.js | Next.js | Node.js | React query | Axios
 - Css | Tailwindcss | Bootstrap
-- Git | Github
+- Git | Github | GitLab
 - Responsive design
 - Scrum
 
