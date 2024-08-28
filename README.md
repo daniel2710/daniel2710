@@ -25,7 +25,7 @@ Si estás interesado en colaborar en un proyecto o simplemente quieres decir hol
 - Whatsapp: +573244933254
 
 <p align="center">
-  <img src="https://i.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.webp" alt="Tu nombre" width="200" height="200">
+  <img src="https://i.giphy.com/YQitE4YNQNahy.webp" alt="Tu nombre" width="200" height="200">
 </p>
 
 <div align="center">
